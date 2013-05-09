@@ -1,3 +1,4 @@
+Scaffold the project like so:
 Applications
 Desktop
 Documents
@@ -5,7 +6,6 @@ Downloads
 Dropbox
 Library
 Movies
-Music
 Pictures
 Public
 Virtual Machines
