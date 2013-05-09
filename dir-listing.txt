@@ -1,0 +1,16 @@
+Applications
+Desktop
+Documents
+Downloads
+Dropbox
+Library
+Movies
+Music
+Pictures
+Public
+Virtual Machines
+bin
+github
+my-projects
+scratch
+src
